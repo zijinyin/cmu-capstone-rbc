@@ -1,0 +1,10 @@
+pandas
+numpy
+pyarrow
+s3fs
+boto3
+scikit-learn
+kmodes
+matplotlib
+jupyter
+nbconvert

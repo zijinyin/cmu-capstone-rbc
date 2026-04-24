@@ -1,0 +1,22 @@
+# NDA / sponsor data
+data/*
+!data/.gitkeep
+*.parquet
+*.csv
+*.zip
+
+# notebooks
+.ipynb_checkpoints/
+
+# python env
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# aws creds
+.aws/
+
+# os
+.DS_Store
+Thumbs.db
